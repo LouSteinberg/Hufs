@@ -1,5 +1,5 @@
 package hufs;
- 
+// 
 import java.util.ArrayList;
 
 import org.apache.commons.math3.distribution.RealDistribution;
